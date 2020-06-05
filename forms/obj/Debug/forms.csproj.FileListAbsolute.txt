@@ -1,0 +1,9 @@
+C:\Users\yarem\source\repos\faceflex\forms\bin\Debug\forms.exe.config
+C:\Users\yarem\source\repos\faceflex\forms\bin\Debug\forms.exe
+C:\Users\yarem\source\repos\faceflex\forms\bin\Debug\forms.pdb
+C:\Users\yarem\source\repos\faceflex\forms\obj\Debug\forms.Form1.resources
+C:\Users\yarem\source\repos\faceflex\forms\obj\Debug\forms.Properties.Resources.resources
+C:\Users\yarem\source\repos\faceflex\forms\obj\Debug\forms.csproj.GenerateResource.cache
+C:\Users\yarem\source\repos\faceflex\forms\obj\Debug\forms.exe
+C:\Users\yarem\source\repos\faceflex\forms\obj\Debug\forms.pdb
+C:\Users\yarem\source\repos\faceflex\forms\obj\Debug\forms.csprojAssemblyReference.cache

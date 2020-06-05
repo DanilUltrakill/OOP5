@@ -1,0 +1,17 @@
+C:\Users\yarem\source\repos\faceflex\WPF\bin\Debug\WPF.exe.config
+C:\Users\yarem\source\repos\faceflex\WPF\bin\Debug\WPF.exe
+C:\Users\yarem\source\repos\faceflex\WPF\bin\Debug\WPF.pdb
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\PersonInfo.g.cs
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\App.g.cs
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\MainWindow.baml
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\PersonInfo.baml
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF.g.resources
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF.exe
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\WPF.pdb
+C:\Users\yarem\source\repos\faceflex\WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
